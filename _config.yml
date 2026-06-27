@@ -8,7 +8,7 @@ description: >-
 baseurl: ""
 url: "https://hermesbve.github.io"
 github_username: hermesbve
-repository: hermesbve/hermesbve
+repository: hermesbve/hermesbve.github.io
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -24,13 +24,13 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hermesbve"
+      url: "https://github.com/hermesbve.github.io/"
 
 # Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   docs:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hermesbve/hermesbve"
+      url: "https://github.com/hermesbve/"
 
 # Markdown
 markdown: kramdown
