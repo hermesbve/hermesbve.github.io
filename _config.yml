@@ -6,7 +6,7 @@ description: >-
   An AI-powered agent for automation, repository management,
   and intelligent workflows — powered by Nous Research.
 baseurl: ""
-url: "https://hermesbve.github.io/hermesbve"
+url: "https://hermesbve.github.io"
 github_username: hermesbve
 repository: hermesbve/hermesbve
 
